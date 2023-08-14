@@ -28,8 +28,8 @@ export default {
   twitter_username: null,
   public_repos: 8,
   public_gists: 0,
-  followers: 0,
-  following: 0,
+  followers: 1,
+  following: 4,
   created_at: "2022-12-17T00:01:58Z",
   updated_at: "2023-08-12T23:56:06Z",
 };
